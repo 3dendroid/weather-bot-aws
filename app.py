@@ -1,6 +1,6 @@
 from aiogram import executor
 
-from handlers import dp
+from loader import dp
 from utils.misc.notify_admins import on_startup_notify
 
 
